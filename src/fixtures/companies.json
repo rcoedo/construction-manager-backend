@@ -1,0 +1,148 @@
+[
+  {
+    "id": "3a1bd165-4ec0-416b-b3de-5fe9bbec2535",
+    "name": "Supplypipe",
+    "specialties": ["Plumbing", "Electrical"],
+    "img": "supplypipe.png",
+    "city": "Madrid"
+  },
+  {
+    "id": "92a7a561-e67e-4913-9aa1-acdb902e820c",
+    "name": "Modern Cog",
+    "specialties": ["Excavation"],
+    "img": "moderncog.png",
+    "city": "Barcelona"
+  },
+  {
+    "id": "8bfd422f-36b4-47d0-8ced-e6ba0033f926",
+    "name": "Pumpshed",
+    "specialties": ["Plumbing"],
+    "img": "pumpshed.png",
+    "city": "Berlin"
+  },
+  {
+    "id": "b65392fc-c603-4d91-9a43-92ab8f5b04f2",
+    "name": "Electrosentry",
+    "specialties": ["Electrical"],
+    "img": "electrosentry.png",
+    "city": "Paris"
+  },
+  {
+    "id": "37966097-c070-48a2-9730-fd3853d8292e",
+    "name": "Hydro Pipeline",
+    "specialties": ["Plumbing", "Excavation"],
+    "img": "hydropipeline.png",
+    "city": "London"
+  },
+  {
+    "id": "4a50139d-c21f-47d7-a7bf-996fca1c9e7c",
+    "name": "Gridwire",
+    "specialties": ["Electrical"],
+    "img": "gridwire.png",
+    "city": "Roma"
+  },
+  {
+    "id": "d07eefc7-59e3-492b-834a-aabaad1e9e5a",
+    "name": "Power Workshop",
+    "specialties": ["Excavation", "Plumbing", "Electrical"],
+    "img": "powerworkshop.png",
+    "city": "Viena"
+  },
+  {
+    "id": "d3a83948-43eb-402e-ad8a-fbda97a7ca1c",
+    "name": "builtia",
+    "specialties": ["Masonry", "Carpentry"],
+    "img": "builtia.png",
+    "city": "Amsterdam"
+  },
+  {
+    "id": "50c88ed4-a348-490e-94af-8957263d010b",
+    "name": "motionbuilt",
+    "specialties": ["Masonry", "Carpentry"],
+    "img": "motionbuilt.png",
+    "city": "Madrid"
+  },
+  {
+    "id": "dc356749-9f74-48da-9a8a-cf247e59c029",
+    "name": "Artisan Report",
+    "specialties": ["Masonry", "Carpentry", "Electrical"],
+    "img": "artisanreport.png",
+    "city": "Barcelona"
+  },
+  {
+    "id": "1b8875eb-9a14-4609-9114-cefe40908d3b",
+    "name": "protoric",
+    "specialties": ["Electrical", "Plumbing", "Carpentry"],
+    "img": "protoric.png",
+    "city": "Viena"
+  },
+  {
+    "id": "76152dd8-6a56-4f12-b974-943bd51773a1",
+    "name": "Build Folk",
+    "specialties": ["Masonry", "Excavation", "Carpentry"],
+    "img": "buildfolk.png",
+    "city": "London"
+  },
+  {
+    "id": "4e367701-a0fd-493f-a897-dca89102235f",
+    "name": "architus",
+    "specialties": ["Masonry"],
+    "img": "architus.png",
+    "city": "Berlin"
+  },
+  {
+    "id": "3e756aaa-76f3-48e3-9ebf-3ecceae77677",
+    "name": "Machine Basics",
+    "specialties": ["Excavation", "Masonry"],
+    "img": "machinebasics.png",
+    "city": "Paris"
+  },
+  {
+    "id": "29dff5b0-08e1-4d96-aa06-69596105db50",
+    "name": "Projecture",
+    "specialties": [
+      "Carpentry",
+      "Electrical",
+      "Excavation",
+      "Masonry",
+      "Plumbing"
+    ],
+    "img": "projecture.png",
+    "city": "Berlin"
+  },
+  {
+    "id": "0743082d-9f5c-4abb-a4c1-e04dade5ff68",
+    "name": "Crafty Center",
+    "specialties": ["Carpentry"],
+    "img": "craftycenter.png",
+    "city": "Barcelona"
+  },
+  {
+    "id": "ac0cf972-3c1d-4e46-b2e3-f6909f3ec3bf",
+    "name": "rexonix",
+    "specialties": ["Masonry"],
+    "img": "rexonix.png",
+    "city": "Madrid"
+  },
+  {
+    "id": "0914ac1d-c2a7-41e5-a306-d95b42bb3fc5",
+    "name": "Workovia",
+    "specialties": ["Electrical", "Masonry", "Plumbing"],
+    "img": "workovia.png",
+    "city": "Paris"
+  },
+  {
+    "id": "7be500fe-b9f7-434f-9007-7abf7d612dc3",
+    "name": "Argitect",
+    "specialties": ["Masonry", "Electrical", "Plumbing", "Carpentry"],
+    "img": "argitect.png",
+    "city": "Berlin"
+  },
+  {
+    "id": "b89c397f-fae5-41bd-9a1f-f435da9fd9d4",
+    "name": "Leverie",
+    "specialties": ["Excavation", "Masonry"],
+    "img": "leverie.png",
+    "city": "Roma"
+  }
+]
